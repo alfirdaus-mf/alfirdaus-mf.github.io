@@ -1,0 +1,53 @@
+body {
+    font-family: 'Poppins';
+    font-size: 16px;
+}
+
+.navbar {
+    background-color: #dc143c;
+}
+
+.jumbotron {
+    color: #ffffff;
+    padding-top: 6rem;
+    padding-bottom: 2rem;
+    background-color: #121113;
+}
+
+.color-titel {
+    color: #dc143c;
+}
+
+#project {
+    background-color: #121113;
+}
+
+section {
+    padding-top: 55px;
+}
+
+#nav-color {
+    color: #ffffff;
+}
+
+#nav-color:hover {
+    color: #000000;
+}
+
+.color-card {
+    background-color: #dc143c;
+}
+
+.btn-kirim {
+    color: #ffffff;
+    background-color: #dc143c;
+}
+
+#footer {
+    margin-top: 10rem;
+    background-color: #dc143c;
+}
+
+.link-akun {
+    text-decoration: none;
+}
